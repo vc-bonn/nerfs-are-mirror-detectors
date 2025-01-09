@@ -17,7 +17,7 @@
     </p>
     <h3 align="center">WACV 2025</h3>
     <h3 align="center">
-        Paper (arxiv)
+        <a href="https://arxiv.org/abs/2501.04074">Paper (arxiv)</a>
         &nbsp; | &nbsp;
         <a href="https://cg.cs.uni-bonn.de/publication/holland-2025-nerfs-are-mirror-detectors">Project Page</a>
 		&nbsp | &nbsp;
@@ -30,8 +30,6 @@
     <img src="./assets/pipeline.png" alt="teaser" width="100%">
 </p>
 
-<!-- This repository contains the official implementation of *[Holland et al. (WACV 25): "NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives"]()*. -->
-
 Code for reproducing the results will be released soon.
 
 ## Abstract
@@ -41,20 +39,19 @@ While neural radiance fields (NeRF) led to a breakthrough in photorealistic nove
 
 ## Citation
 
-**TODO:** add bibtex from arxiv
-<!-- 
 If you use the code for your own research, please cite our work as
 
 ```
-@inproceedings{holland2024tram,
-  title={TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections Through Neural Radiance Fields},
-  author={Holland, Leif Van and Bliersbach, Ruben and M{\"u}ller, Jan Uwe and Stotko, Patrick and Klein, Reinhard},
-  booktitle={Computer Graphics Forum},
-  doi = {10.1111/cgf.15163},
-  year={2024},
-  organization={Wiley Online Library}
+@misc{vanholland2025nerfsmirrordetectorsusing,
+      title={NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives}, 
+      author={Leif Van Holland and Michael Weinmann and Jan U. Müller and Patrick Stotko and Reinhard Klein},
+      year={2025},
+      eprint={2501.04074},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.04074}, 
 }
-``` -->
+```
 
 ## Acknowledgements
 
